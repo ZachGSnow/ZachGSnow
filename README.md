@@ -8,7 +8,8 @@ I've owned Microsoft 365, Intune and Entra ID for a 5,000+ endpoint managed-serv
 book, run an annual tooling budget of about $250,000, and been the final escalation for
 problems that had already been through everyone else. I evaluate firewalls, backup,
 endpoint security and hybrid identity the way a customer does after go-live, not only
-during the demo.
+during the demo. I also run client business reviews, build hardware lifecycle plans and budget
+forecasts, and scope and quote projects with account managers.
 
 Everything I know, I learned by being in the room when something broke.
 
