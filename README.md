@@ -38,7 +38,8 @@ More on the way.
 Every repository here ships with automated tests (on Windows and Linux wherever the
 project runs on both), secret scanning, automatic dependency updates and a protected
 main branch. If I wouldn't put it in front
-of a customer, it doesn't go here.
+of a customer, it doesn't go here. I build these with AI coding tools: I write the spec,
+review the code, and make the tests prove it works. I can walk you through any of it.
 
 ## Writing
 
