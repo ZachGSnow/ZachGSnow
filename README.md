@@ -55,4 +55,4 @@ and not cutting corners.
 
 ## Contact
 
-[LinkedIn](https://www.linkedin.com/in/zach-snow-systems-admin/) | [snownative.com](https://snownative.com)
+[LinkedIn](https://www.linkedin.com/in/zachgsnow/) | [snownative.com](https://snownative.com) | ZachSnow@pm.me
